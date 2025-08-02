@@ -28,10 +28,7 @@ I wanted it to feel immersive and fun, while still keeping it clean and fast.
 ---
 
 ## 🚀 How to View
-**Live Demo:** [Click Here](https://quantumgod007.github.io/PixxelHack_LoneWolf/)  
 
-To run locally:
-```bash
-git clone <repo-url>
-cd anime-unleashed
-open index.html
+**Live Demo:** https://quantumgod007.github.io/PixxelHack_LoneWolf/
+
+
